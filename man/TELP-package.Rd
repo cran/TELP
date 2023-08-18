@@ -1,5 +1,6 @@
 \name{package}
 \alias{package}
+\alias{TELP-package}
 \docType{package}
 \title{
 Social Representation Theory Application:
