@@ -44,8 +44,8 @@ The theory of the Central Nucleus is based only on the first quadrant of those w
 \tabular{ll}{
 Package: \tab TELP\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2016-04-21\cr
+Version: \tab 1.0.2\cr
+Date: \tab 2018-08-31\cr
 License: \tab GPL (>2)\cr
 }
 }

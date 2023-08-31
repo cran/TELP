@@ -2,8 +2,8 @@ Package: TELP
 Type: Package
 Title: Social Representation Theory Application: The Free Evocation of
         Words Technique
-Version: 1.0.1
-Date: 2023-08-18
+Version: 1.0.2
+Date: 2023-08-31
 LazyData: true
 Author: Gabriel Henrique Oliveira Assuncao
 Maintainer: Gabriel Henrique Oliveira Assuncao <gabrielhenryoliver@hotmail.com>
@@ -14,6 +14,6 @@ Depends: tcltk2
 Imports: tm,wordcloud,RColorBrewer,arules,arulesViz,ggplot2,gridExtra
 RoxygenNote: 7.2.3
 NeedsCompilation: no
-Packaged: 2023-08-18 21:22:14 UTC; Usuario
+Packaged: 2023-08-22 17:38:14 UTC; Usuario
 Repository: CRAN
-Date/Publication: 2023-08-18 21:42:32 UTC
+Date/Publication: 2023-08-31 12:30:02 UTC
